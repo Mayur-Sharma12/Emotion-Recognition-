@@ -1,5 +1,4 @@
 # Emotion-Recognition-
-## Emotion and Face Detection Framework
 
 ### Problem Statement:
 Existing systems suffer from low accuracy in emotion detection using neural networks and lack secure face databases for real-world applications like human-computer interaction. Training and testing each face demand extensive data, posing challenges in terms of accuracy, data storage, and time.
