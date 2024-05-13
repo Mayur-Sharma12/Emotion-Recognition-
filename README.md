@@ -1,10 +1,10 @@
 # Emotion-Recognition-
 
 ### Problem Statement:
-Existing systems suffer from low accuracy in emotion detection using neural networks and lack secure face databases for real-world applications like human-computer interaction. Training and testing each face demand extensive data, posing challenges in terms of accuracy, data storage, and time.
+A standalone convolutional neural network (CNN) suffers from low accuracy in emotion detection and lacks real-world applications like human-computer interaction. Training and testing each face demand extensive data, posing challenges in terms of accuracy, data storage, and time.
 
 ### Proposed Solution:
-Our framework utilizes Gabor filters for efficient feature extraction, enhancing the speed and accuracy of training the deep convolutional neural network (CNN). This approach addresses the limitations in existing systems and proves beneficial in applications such as Graphical Designing, Visual FX, Snapchat/Instagram Filters, Facial Psychology, etc.
+Our framework utilizes Gabor filters for efficient feature extraction, enhancing the speed and accuracy a standalone CNN. This approach addresses the limitations in existing systems and proves beneficial in applications such as Graphical Designing, Visual FX, Snapchat/Instagram Filters, Facial Psychology, etc.
 
 <img width="403" alt="Screenshot 2023-12-16 at 8 38 21 PM" src="https://github.com/Mayur-Sharma12/Emotion-Recognition-/assets/93172390/4f3b69dd-09b2-43a2-b76b-f5f4d7f38cd7">
 
